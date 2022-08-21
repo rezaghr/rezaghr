@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rezaghr
-- 👀 I’m interested in programing with python , backend development,linux
+- 👀 I’m interested in programing with python , front end,linux
 - 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me : riuk.gh@gmail.com
