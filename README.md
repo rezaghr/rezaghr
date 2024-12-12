@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rezaghr
-- 👀 I’m interested in programing with python , front end,linux
-- 🌱 I’m currently learning linux
-- 💞️ I’m looking to collaborate on learning
+- 👀 I’m interested in programing with python , back-end,linux
+- 🌱 I’m currently learning ai
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : riuk.gh@gmail.com
 
 <!---
